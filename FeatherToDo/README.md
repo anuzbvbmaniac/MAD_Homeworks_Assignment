@@ -34,8 +34,8 @@ of an app can be unit-tested, components can be reused within the app or across 
 <img src="assets/featheronly.png" width="25%" height="20%"><img src="assets/icon.png" width="25%" height="20%"><img src="assets/roundicon.png" width="25%" height="20%"><img src="assets/texticon.png" width="25%" height="20%">
 
 # Screen Shots
-<img src="screenshot/onboarding1.jpg" width="25%" height="20%"><img src="screenshot/onboarding2.jpg" width="25%" height="20%"><img src="screenshot/onboarding3.jpg" width="25%" height="20%"><img src="screenshot/onboarding4.jpg" width="25%" height="20%">  
-<img src="screenshot/main1.jpg" width="25%" height="20%"><img src="screenshot/main2.jpg" width="25%" height="20%"><img src="screenshot/main3.jpg" width="25%" height="20%"><img src="screenshot/main4.jpg" width="25%" height="20%">  
+<img src="screenshot/onboarding1.jpg" width="25%" height="20%"><img src="screenshot/onboarding2.jpg" width="25%" height="20%">|<img src="screenshot/onboarding3.jpg" width="25%" height="20%">|<img src="screenshot/onboarding4.jpg" width="25%" height="20%">|  
+<img src="screenshot/main1.jpg" width="25%" height="20%">|<img src="screenshot/main2.jpg" width="25%" height="20%"><img src="screenshot/main3.jpg" width="25%" height="20%"><img src="screenshot/main4.jpg" width="25%" height="20%">  
 <img src="screenshot/other1.jpg" width="25%" height="20%"><img src="screenshot/other2.jpg" width="25%" height="20%">  
 
 # License
