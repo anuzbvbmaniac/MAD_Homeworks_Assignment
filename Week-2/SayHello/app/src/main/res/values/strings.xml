@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SayHello</string>
+    <string name="main_bg_desc">Main Background Image</string>
+    <string name="btn_sayHello">Say Hello</string>
+    <string name="caption_text">Caption Text</string>
+    <string name="headline">Counter -</string>
+    <string name="btn_counterUp">Count</string>
+    <string name="btn_reset">Reset</string>
+    <string name="hello_user">Hello User!</string>
+    <string name="greeting_image_desc">Hello greeting Vector Image</string>
+    <string name="counter_desc">Your Counter Number Was</string>
+    <string name="previous_counter">0</string>
+    <string name="resetToast">Counter already at Zero!</string>
+    <string name="reset_toast">Counter already at zero!</string>
+</resources>

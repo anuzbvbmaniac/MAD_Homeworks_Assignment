@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5877FA</color>
+    <color name="colorPrimaryDark">#5877FA</color>
+    <color name="colorAccent">#5392FF</color>
+
+    <drawable name="completedTaskBackground">#CCCCCC</drawable>
+
+    <drawable name="touchFeedback">#CFD8DC</drawable>
+
+    // main color
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    // application custom color
+    <color name="applight">#f6f9ff</color>
+    <color name="appgrey">#d3dbe9</color>
+    <color name="appdarkgrey">#a7b6d1</color>
+    <color name="appdark">#163366</color>
+    <color name="appblue">#5392FF</color>
+    <color name="appdarkblue">#5877FA</color>
+
+</resources>

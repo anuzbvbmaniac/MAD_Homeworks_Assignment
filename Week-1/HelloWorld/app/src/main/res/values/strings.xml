@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="click_me">Click Me!!!</string>
+    <string name="toast">TOAST</string>
+    <string name="count">COUNT</string>
+    <string name="_0">0</string>
+</resources>

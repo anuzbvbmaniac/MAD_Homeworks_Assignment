@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">FeatherToDo</string>
+    <string name="add_task">नयाँ कार्य थप्नुहोस्</string>
+    <string name="edit_task">कार्य सम्पादन गर्नुहोस्</string>
+    <string name="task_marked_complete">कार्य सम्पन्न भयो!</string>
+    <string name="task_marked_active">कार्य सक्रिय भयो!</string>
+    <string name="loading_tasks_error">कार्यहरू लोड गर्दा त्रुटि</string>
+    <string name="completed_tasks_cleared">पूरा कार्यहरू खाली गरियो।</string>
+    <string name="menu_filter">फिल्टर</string>
+    <string name="menu_clear">Clear completed</string>
+    <string name="menu_delete_task">पूर्ण रुपमा समाप्त</string>
+    <string name="navigation_view_header_title">Feather Todo</string>
+    <string name="title_hint">शीर्षक</string>
+    <string name="description_hint">तपाइँको TO-DO यहाँ प्रविष्ट गर्नुहोस्।</string>
+    <string name="empty_task_message">TODO खाली हुन सक्दैन</string>
+    <string name="successfully_saved_task_message">TO-DO बचत गरियो</string>
+    <string name="list_title">TO-DO सूची</string>
+    <string name="statistics_title">तथ्याङ्कहरू</string>
+    <string name="statistics_no_tasks">तपाईंसँग कुनै कार्य छैन।</string>
+    <string name="statistics_active_tasks">Active tasks: %d</string>
+    <string name="statistics_completed_tasks">Completed tasks: %d</string>
+    <string name="statistics_error">तथ्याङ्कहरू लोड गर्दा त्रुटि।</string>
+    <string name="no_data">No data</string>
+    <string name="loading">LOADING</string>
+
+    <string-array name="list_tasks_array">
+        <item>@string/nav_all</item>
+        <item>@string/nav_active</item>
+        <item>@string/nav_completed</item>
+    </string-array>
+    <string name="nav_all">सबै</string>
+    <string name="nav_active">Active</string>
+    <string name="nav_completed">सक्रिय</string>
+    <string name="label_all">सबै TO-DOs</string>
+    <string name="label_active">Active TO-DOs</string>
+    <string name="label_completed">Completed TO-DOs</string>
+    <string name="no_tasks_all">You have no TO-DOs!</string>
+    <string name="no_tasks_active">You have no active TO-DOs!</string>
+    <string name="no_tasks_completed">You have no completed TO-DOs!</string>
+    <string name="no_tasks_add">Add a TO-DO item +</string>
+    <string name="refresh">Refresh</string>
+    <string name="successfully_deleted_task_message">Task was deleted</string>
+    <string name="successfully_added_task_message">TO-DO added</string>
+    <string name="no_data_description" />
+
+    <string name="btn_onboarding_next">Next Button For Onboarding Screen</string>
+    <string name="textStart">START</string>
+    <string name="app_logo">App Logo</string>
+    <string name="settings">Settings</string>
+
+</resources>

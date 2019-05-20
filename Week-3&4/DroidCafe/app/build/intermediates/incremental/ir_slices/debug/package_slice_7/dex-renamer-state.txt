@@ -1,0 +1,4 @@
+#Wed May 15 14:52:21 NPT 2019
+base.0=F\:\\Mobile-Application-Development\\Week-3&4\\DroidCafe\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
